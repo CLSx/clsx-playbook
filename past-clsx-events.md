@@ -8,5 +8,5 @@
 
 ### CLSxItaly - Milan
 
-Organizers: Alfredo Morresi, Alessio Fattorini,
+Organizers: 
 
