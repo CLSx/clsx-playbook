@@ -1,7 +1,8 @@
 # Community Leadership Summit X Playbook
+Everything you need to know about CLSx events
 
 ## Goals
-We want to foster the spreading of knowledge on community management topics. The way we've chosen is to create a sustainable network of CLSx events in Europe, aligned in objectives and culture.
+We want to foster the spreading of knowledge on community management topics. The way we've chosen is to create a sustainable network of [CLSx events](http://www.communityleadershipsummit.com/clsx/license/) in Europe, aligned in objectives and culture.
 ## Target
 Although community management is a wide and very horizontal field, we would like to focus primarily on offline and online tech community leaders, and then on the rest of the community ecosystem. In any case, **all community leaders and members are welcome**, we’re an open and inclusive community of practice :)
 
