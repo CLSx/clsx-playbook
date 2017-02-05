@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Organise a CLSx](chapter1.md)
+* [Organise a CLSx](clsx-in-a-box.md)
 * [Slack rules](slack-rules.md)
 
