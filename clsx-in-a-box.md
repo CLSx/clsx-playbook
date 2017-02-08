@@ -14,4 +14,7 @@ In order to organise a typical CLSx event, several elements should be put in pla
  * A venue with one main space able to host the entire audience for the plenary sessions, plus additional rooms for the unconference sessions. Of course the same room can be split to host two or more unconference sessions, but please consider the noise if rooms are small and discussion groups are near
  * A website to gather information about the event, like date, location, agenda, sponsor etc. A [template](site-template.md) is in progress
 
+### Naming the event
+The guideline to follow in order to name your event is based on the area where it happens. We've seen in America a better usage of CLSx_(city)_ (i.e. CLSxDenver), while in Europe there is more consensus on the CLSx_(country)_ scheme (i.e. CLSxItaly or CLSxSpain), because the event aim to reach and gather all the people in the country, that generally share a common language, set of cultural rules and context. Another possibility, if the CLSx event targets attendees of a specific event, and all the rights on brand usage have been approved, it's possible to use CLSx_(event)_, (i.e. CLSxOSCON, CLSxCodemotion)
+
 
