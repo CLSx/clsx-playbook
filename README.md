@@ -2,7 +2,7 @@
 
 ### Vision
 
-Foster the community leadership culture and bring it where communities are
+Craft the community leadership culture and bring it where communities are
 
 ### Mission
 
@@ -14,6 +14,8 @@ We're moving along two main axis:
 
 * Identify, connect and empower local groups or people to own and run CLSx events
 * Support them making the organisation of these events as effortless as possible, so they can focus on the most important things: content and people. We wanna help with logistic \(venue, funding, communication templates, website, etc\), and connections useful to find speakers and attendees. The more, the better.
+
+This playbook gather all the information to know around the CLSx movement, from [organising an event](clsx-in-a-box.md), [communication channel policy](slack-rules.md), [list of past events](past-clsx-events.md) etc.
 
 ### Love the idea?
 
