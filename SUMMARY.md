@@ -6,4 +6,5 @@
 * [Past CLSx events](past-clsx-events.md)
 * [Site template](site-template.md)
 * [Community Leadership Meetup](meetup.md)
+* [Communication template](comm-template.md)
 
