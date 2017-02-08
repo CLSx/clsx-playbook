@@ -2,7 +2,7 @@
 
 ### Vision
 
-Craft the community leadership culture and bring it where communities are
+Craft the community leadership culture and bring it where communities are.
 
 ### Mission
 
