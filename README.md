@@ -6,7 +6,7 @@ Craft the community leadership culture and bring it where communities are
 
 ### Mission
 
-Create a sustainable network of [CLSx events](http://www.communityleadershipsummit.com/clsx/license/), aligned in objectives and culture. Because community management is a very wide field, the main but not exclusive focus is on offline and online tech community ecosystem. In any case, **all community leaders and members are welcome**, we’re an open and inclusive community of practice. As per [CLSx licence](http://www.communityleadershipsummit.com/clsx/license/), these event are non-profit events.
+Create a sustainable network of [CLSx events](http://www.communityleadershipsummit.com/clsx/license/), aligned in objectives and culture. Because community management is a very wide field, the main but not exclusive focus is on offline and online tech community ecosystem. In any case, **all community leaders and members are welcome**, we’re an open and inclusive Community of Practice. As per [CLSx licence](http://www.communityleadershipsummit.com/clsx/license/), these event are non-profit events.
 
 ### How
 
