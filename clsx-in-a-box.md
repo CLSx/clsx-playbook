@@ -54,18 +54,28 @@ In order to organize contacts and write down some useful notes. It might collect
 * Create a twitter account \(and a Facebook Event\) with the name of the event \(for the avatar, you can use or customize some of the logos availables\) It will be useful to keep your audience in touch
 
 * Setup a Newsletter list with all the contacts collected
+
 * Setup a general email address where receive all notifications. It should be forwarded to all co-organizers. For example clsxname@gmail.com 
 
+### T-shirts
 
+### Setting up an Agenda
 
-#### Message to accepted Speakers
+### Community Corner
+
+Where every community can put its logo and say something about: who they are, what they do. Networking is the goal
+
+Message to accepted Speakers
 
 * Join the event with the promo code - CLSxGuest
 
 * Join our eventbrite friday dinner
 
 * Bring the slides with you.
+
 * Tweets and spread the voice about their own sessions
+
+
 
 
 
