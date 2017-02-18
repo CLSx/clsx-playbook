@@ -25,11 +25,15 @@ The guideline to follow in order to name your event is based on the area where i
 
 ## Things To Do Before the Event
 
-Choose a simple project management tool
+### Choose a simple project management tool
 
-We suggest to use a tool where memorize things to do and done. A great project management tool like Trello \(or similar kanban softwares\) could suit that need. It simple, web-based and very good for teamworks.
+We suggest to use a tool where memorize things to do and already done by the team. A great project management tool like Trello \(or similar kanban softwares\) could suit that need. It simple, web-based and very good for teamworks. \[link to our fac-simile trello board or image\]
 
-###  Write a Battle Plan Document
+### Find a Venue
+
+### Find a suitable date
+
+### Write a Battle Plan Document
 
 In order to organize contacts and write down some useful notes. It might collect things like:
 
@@ -40,10 +44,17 @@ In order to organize contacts and write down some useful notes. It might collect
 * Speakers confirmed or just reached out
 * Meeting Notes and decisions taken
 
-#### Find and manage sponsorship
+#### Find and manage sponsorships
 
 * Create a list of possible sponsors asking to co-organizers and global organizers
 * Create a Template proposal for sponsorship to send to sponsors and partners. \[Link to our template\]
+
+### Create a Social presence
+
+* Create a twitter account \(and a Facebook Event\) with the name of the event \(for the avatar, you can use or customize some of the logos availables\) It will be useful to keep your audience in touch
+
+* Setup a Newsletter list with all the contacts collected
+* Setup a general email address where receive all notifications. It should be forwarded to all co-organizers. For example clsxname@gmail.com 
 
 
 
@@ -52,10 +63,9 @@ In order to organize contacts and write down some useful notes. It might collect
 * Join the event with the promo code - CLSxGuest
 
 * Join our eventbrite friday dinner
+
 * Bring the slides with you.
 * Tweets and spread the voice about their own sessions
-
-
 
 
 
