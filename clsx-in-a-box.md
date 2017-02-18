@@ -55,7 +55,7 @@ In order to organize contacts and write down some useful notes. It might collect
 
 * Setup a Newsletter list with all the contacts collected
 
-* Setup a general email address where receive all notifications. It should be forwarded to all co-organizers. For example clsxname@gmail.com 
+* Setup a general email address where receive all notifications. It should be forwarded to all co-organizers. For example clsxname@gmail.com
 
 ### T-shirts
 
@@ -63,7 +63,7 @@ In order to organize contacts and write down some useful notes. It might collect
 
 ### Community Corner
 
-Where every community can put its logo and say something about: who they are, what they do. Networking is the goal
+Where every community can put its logo and tell something about: who they are, what they do. Networking is the goal
 
 Message to accepted Speakers
 
@@ -74,8 +74,6 @@ Message to accepted Speakers
 * Bring the slides with you.
 
 * Tweets and spread the voice about their own sessions
-
-
 
 
 
