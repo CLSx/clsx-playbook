@@ -59,13 +59,27 @@ In order to organize contacts and write down some useful notes. It might collect
 
 ### T-shirts
 
+Design and print t-shirts for speakers and attendees. We suggest not 
+
+Things to take in account
+
+* Budget.
+* How many t-shirts? Based on attendees. 
+* T-shirts should be re-used in other CLSx events. In Italy we didn't put the date or the city on the t-shirt design.  \[shirt images\]
+* Which supplier? How much time before we have to send the final t-shirts number?
+
 ### Setting up an Agenda
+
+### Photos dure the event
+
+* Ask to a volunteer or friend or pay a photo service
+* Use photos for post-event blog posts and tweets
 
 ### Community Corner
 
 Where every community can put its logo and tell something about: who they are, what they do. Networking is the goal
 
-Message to accepted Speakers
+### Message to accepted Speakers
 
 * Join the event with the promo code - CLSxGuest
 
@@ -74,6 +88,12 @@ Message to accepted Speakers
 * Bring the slides with you.
 
 * Tweets and spread the voice about their own sessions
+
+
+
+Food and Catering
+
+
 
 
 
