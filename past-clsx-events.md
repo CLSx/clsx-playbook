@@ -1,7 +1,7 @@
 # CLSx events in Europe in 2016
 
 ### CLSxEurope - London, Oct 16th 2016
-![](/assets/20161016-clsxeurope.jpg)
+![](/assets/20161016-clsxeurope.jpg)  
 Organizers: [ben van 't ende](https://twitter.com/benvantende), [Shelly Coen](https://twitter.com/shellycoen), [Nina Kim]()
 [Website](http://clsxeurope.com/)
 
