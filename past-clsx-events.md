@@ -23,6 +23,4 @@ Organizers: [Alfredo Morresi](https://twitter.com/rainbowbreeze), [Alessio Fatto
 ### CLSxItaly - Milan, Feb 27th 2016
 ![CLSxItaly](/assets/20160227-clsxitaly-milan.jpg)  
 Organizers: [Alfredo Morresi](https://twitter.com/rainbowbreeze), [Alessio Fattorini](https://twitter.com/ale_fattorini), [Stefano Ottaviani](https://twitter.com/ste8), [Michel Murabito](https://twitter.com/michelmurabito), [Mara Marzocchi](https://twitter.com/maraexceptioon)  
-[Website](http://www.clsxitaly.org), [Storify](https://storify.com/ale_fattorini/community-leadership-summit-x-italy), [videos](http://clsxitaly.org/prima-edizione.html#agenda)
-
-
+[Website](http://www.clsxitaly.org), [videos](http://clsxitaly.org/prima-edizione.html#agenda), [Storify](https://storify.com/ale_fattorini/community-leadership-summit-x-italy)
