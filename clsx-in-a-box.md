@@ -33,16 +33,25 @@ We suggest to use a tool where memorize things to do and already done by the tea
 
 ### Find a suitable date
 
+### Set up a shared folder with all resources
+
+Which contains:
+
+* Battle Plan
+* Budgets
+* Pictures
+* General templates for email
+
 ### Write a Battle Plan Document
 
 In order to organize contacts and write down some useful notes. It might collect things like:
 
-* People to get in touch
+* People to get in touch and got in touch
 * Communities to involve
 * Sponsors
 * Agenda draft or possible topics
 * Speakers confirmed or just reached out
-* Meeting Notes and decisions taken
+* Meeting Notes and important decisions taken
 
 #### Find and manage sponsorships
 
@@ -59,7 +68,7 @@ In order to organize contacts and write down some useful notes. It might collect
 
 ### T-shirts
 
-Design and print t-shirts for speakers and attendees. We suggest not 
+Design and print t-shirts for speakers and attendees. We suggest not
 
 Things to take in account
 
@@ -79,6 +88,18 @@ Things to take in account
 
 Where every community can put its logo and tell something about: who they are, what they do. Networking is the goal
 
+### Organize the Unconference 
+
+
+
+Materials:
+
+* post-it
+* paper
+* pens
+
+
+
 ### Message to accepted Speakers
 
 * Join the event with the promo code - CLSxGuest
@@ -89,11 +110,12 @@ Where every community can put its logo and tell something about: who they are, w
 
 * Tweets and spread the voice about their own sessions
 
+## Food and Catering
 
-
-Food and Catering
-
-
+* How many attendees?
+* Set a deadline for total amount notice
+* Budget proposed
+* Menu		
 
 
 
