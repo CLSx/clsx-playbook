@@ -88,17 +88,13 @@ Things to take in account
 
 Where every community can put its logo and tell something about: who they are, what they do. Networking is the goal
 
-### Organize the Unconference 
-
-
+### Organize the Unconference
 
 Materials:
 
 * post-it
 * paper
 * pens
-
-
 
 ### Message to accepted Speakers
 
@@ -115,7 +111,7 @@ Materials:
 * How many attendees?
 * Set a deadline for total amount notice
 * Budget proposed
-* Menu		
+* Menu        
 
 
 
