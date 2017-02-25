@@ -17,13 +17,13 @@ We're moving along two main axis:
 
 ### Who
 
-[Jono Bacon](http://www.jonobacon.org/) create the first Community Leadership Summit event back in 2012, and the CLSx event licence. [Alfredo Morresi](http://www.rainbowbreeze.it/) and [Alessio Fattorini](https://it.linkedin.com/in/alefattorini) are helping growing the movement in Europe. And, most important, there is the **network of volunteers** that are organising [CLSx events all around the globe](/past-clsx-events.md). 
+[Jono Bacon](http://www.jonobacon.org/) create the first Community Leadership Summit event back in 2012, and the CLSx event licence. [Alfredo Morresi](http://www.rainbowbreeze.it/) and [Alessio Fattorini](https://it.linkedin.com/in/alefattorini) are helping growing the movement in Europe. And, most important, there is the **network of volunteers** that are organising [CLSx events all around the globe](/past-clsx-events.md).
 
 ### What's next
 
-Well, everything depends on you: if you wanna help us crafting the community leadership culture, and you think you have 40/50 people potentially interested in partecipatpotential attendees organize a CLSx event, follow our list of best practice \(but feel free to innovate\),
+Well, everything depends on you: if you wanna help us crafting the community leadership culture, and you think you may reach 40/50 people potentially interested in attending a CLSx event, suggestion is to start working on organising a CLSx event. Here the best practices we gathered from several events \(and feel free to innovate\). Otherwise, to try to understand if your ecosystem is interested in such initiative, maybe [organising a local meetup](/meetup.md) could be a good option.
 
-### Love the idea?
+In any case, [keep in touch](slack_or_forum), your [feedback and ideas are welcome](contact_us), and if you wanna help the global coordination of the initivaties, you're more than welcome!
 
-Great! [Keep in touch](slack_or_forum), read how to organise a CLSx event in your city, join our \[platform to discuss about community management topics\]. And, of course, [feedback and ideas are welcome](contact_us)!
+
 
