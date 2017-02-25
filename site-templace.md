@@ -1,3 +1,0 @@
-# CLSx Site Template
-
- WIP 
