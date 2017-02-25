@@ -23,5 +23,5 @@ We're moving along two main axis:
 
 Well, everything depends on you: if you wanna help us crafting the community leadership culture, and you think you may reach 40/50 people potentially interested in attending a CLSx event, suggestion is to organise one of them. Here the [best practices we gathered](/clsx-in-a-box.md) from several events \(and feel free to innovate\). Otherwise, to try to understand if your ecosystem is interested in such initiative, [organising a local meetup](/meetup.md) is a good option.
 
-In any case, [keep in touch](slack_or_forum), your [feedback and ideas are welcome](contact_us), and if you wanna help the global coordination of the initivaties, you're more than welcome!
+In any case, [keep in touch](slack_or_forum), your [feedback and ideas are welcome](contact_us), and if you wanna help the global coordination of the initivaties, drop us a line!
 
