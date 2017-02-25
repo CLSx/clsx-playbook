@@ -13,7 +13,7 @@ Create a sustainable network of [CLSx events](http://www.communityleadershipsumm
 We're moving along two main axis:
 
 * Identify, connect and empower local groups or people to own and run CLSx events
-* Support them making the organisation of these events as effortless as possible, so they can focus on the most important things: content and people. We wanna help with logistic, venue, funding, [best practices to organise an event](clsx-in-a-box.md), [communication templates](/comms-template.md), website template, creative assets etc. And provide as much connections as possible, to find speakers and attendees.
+* Support them making the organisation of these events as effortless as possible, so they can focus on the most important things: content and people. We wanna help defining [best practices to organise an event](clsx-in-a-box.md), providing ready-to-use [communication templates](/comms-template.md), a website template, creative assets etc. So this book.
 
 ### Love the idea?
 
