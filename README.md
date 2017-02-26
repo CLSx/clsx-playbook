@@ -10,7 +10,7 @@ Create a sustainable network of [CLSx events](http://www.communityleadershipsumm
 
 ### Who
 
-[Jono Bacon](http://www.jonobacon.org/) create the first Community Leadership Summit event back in 2012, and the CLSx event licence. [Alfredo Morresi](http://www.rainbowbreeze.it/) and [Alessio Fattorini](https://it.linkedin.com/in/alefattorini) are helping growing the movement in Europe. And, most important, there is the **network of volunteers** that are organising [CLSx events all around the globe](/past-clsx-events.md).
+[Jono Bacon](http://www.jonobacon.org/) create the first Community Leadership Summit event back in 2012, and the [CLSx event licence](http://www.communityleadershipsummit.com/clsx/license/). [Alfredo Morresi](http://www.rainbowbreeze.it/) and [Alessio Fattorini](https://it.linkedin.com/in/alefattorini) are helping growing the movement in Europe. And, most important, there is the **network of volunteers** that are organising [CLSx events all around the globe](/past-clsx-events.md).
 
 ### How
 
